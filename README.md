@@ -4,7 +4,7 @@
 Place your PHP files in the "HTDocs" folder located under the "XAMMP" folder on your C: drive. The file path is "C:\xampp\htdocs" for 
 your Web server. Make sure your PHP files are saved as such; they must have the ".php" file extension. 
 
-now copy these lines and paste:
+now copy these lines and paste:<br/>
 Localhost/post_job <br/>
 Localhost/get_job <br/>
 
